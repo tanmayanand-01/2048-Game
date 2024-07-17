@@ -8,11 +8,12 @@ A simple non-GUI C++ implementation of the popular puzzle game 2048.
 -	Use the console to print the grid after every move and accept commands from the user to control the direction of the tile movement.
 
 HOW TO RUN -
-For Linux-based distros (Debian, Arch Linux) :
-- Open your terminal and change the directory to 2048-Game/src/main.cpp
-- Run the command g++ main.cpp
-- After that run the command ./a.out
-- Now the puzzle game in CLI is ready.
+
+  For Linux-based distros (Debian, Arch Linux) :
+  - Open your terminal and change the directory to 2048-Game/src/main.cpp
+  - Run the command g++ main.cpp
+  - After that run the command ./a.out
+  - Now the puzzle game in CLI is ready.
 
   For Windows :
   - First in "line 249" of the code file "main. cpp" change system("clear") to system("cls")
