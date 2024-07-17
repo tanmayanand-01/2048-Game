@@ -1,11 +1,11 @@
 # 2048-Game
 A simple non-GUI C++ implementation of the popular puzzle game 2048.
 
-·	A command-line version of the 2048 game, where players can move tiles in four directions to combine numbers and achieve the 2048 tile.
-·	Implementing the core game mechanics, including the 4x4 grid, tile merging rules, and movement logic (up, down, left, right).
-·	Ensure tiles combine correctly when moved and handle the generation of new tiles (2 or 4) after each move.
-·	Create a text-based interface to display the game grid and capture user input. 
-·	Use the console to print the grid after every move and accept commands from the user to control the direction of the tile movement.
+-	A command-line version of the 2048 game, where players can move tiles in four directions to combine numbers and achieve the 2048 tile.
+-	Implementing the core game mechanics, including the 4x4 grid, tile merging rules, and movement logic (up, down, left, right).
+-	Ensure tiles combine correctly when moved and handle the generation of new tiles (2 or 4) after each move.
+-	Create a text-based interface to display the game grid and capture user input. 
+-	Use the console to print the grid after every move and accept commands from the user to control the direction of the tile movement.
 
 HOW TO RUN -
 For Linux-based distros (Debian, Arch Linux) :
